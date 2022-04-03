@@ -1,4 +1,4 @@
-## Custom NextJS Template
+## NextJS :: Typescript | TailwindCSS | Twin.Macro | MUI | Emotion | ESLint | Prettier
 
 ![](https://i.imgur.com/4TawzRx.png)
 
