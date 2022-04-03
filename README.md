@@ -1,11 +1,14 @@
 ## Added
 
+-   Typescript
 -   TailwindCSS
 -   Twin.Macro
 -   MUI (MaterialUI 5)
 -   Emotion (Cache)
 -   ESLint
 -   Prettier
+
+![](https://i.imgur.com/4TawzRx.png)
 
 ## Getting Started
 
