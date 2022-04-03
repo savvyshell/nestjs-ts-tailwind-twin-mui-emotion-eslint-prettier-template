@@ -12,6 +12,10 @@
 -   ESLint
 -   Prettier
 
+## Example Code
+
+![](https://i.imgur.com/eiVWcNs.png)
+
 ## Getting Started
 
 First, run the development server:
