@@ -1,4 +1,4 @@
-## NextJS :: Typescript | TailwindCSS | Twin.Macro | MUI | Emotion | ESLint | Prettier
+## NextJS :: All-in-One Tailwind/MUI Template
 
 ![](https://i.imgur.com/4TawzRx.png)
 
