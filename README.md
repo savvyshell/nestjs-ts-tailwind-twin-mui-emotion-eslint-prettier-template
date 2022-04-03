@@ -1,3 +1,7 @@
+## Custom NextJS Template
+
+![](https://i.imgur.com/4TawzRx.png)
+
 ## Added
 
 -   Typescript
@@ -7,8 +11,6 @@
 -   Emotion (Cache)
 -   ESLint
 -   Prettier
-
-![](https://i.imgur.com/4TawzRx.png)
 
 ## Getting Started
 
